@@ -52,7 +52,7 @@ const Unicornscan = () => {
         "Step 4: Start the scan by clicking the 'Start Unicornscan' button. \n" +
         "Step 5: SReview the output to identify vulnerabilities and misconfigurations.";
     const sourceLink = "https://github.com/dneufeld/unicornscan";
-    const tutorial = "https://docs.google.com/document/d/1_PlOalGoD-3CDc83_SwMY53VCsEFbL56/edit";
+    const tutorial = "https://docs.google.com/document/d/1l0JzjmG9XjaVmeDccwBY5rhVF7Ci67i2/edit";
     const dependencies = ["unicornscan"];
 
     // Options for the dropdown menu
